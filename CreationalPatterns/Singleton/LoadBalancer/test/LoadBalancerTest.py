@@ -2,7 +2,7 @@
 
 import sys
 import unittest
-from ..LoadBalancer import LoadBalancer
+from LoadBalancer import LoadBalancer
 
 
 class LoadBalancerTest(unittest.TestCase):
