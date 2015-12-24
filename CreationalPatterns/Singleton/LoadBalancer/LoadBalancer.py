@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 from Singleton import Singleton
 from random import randint
